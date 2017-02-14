@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PlaceholderTextView_Example' do
+  pod 'PlaceholderTextView', :path => '../'
+
+  target 'PlaceholderTextView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
