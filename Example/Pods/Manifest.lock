@@ -1,0 +1,16 @@
+PODS:
+  - PlaceholderTextView (0.1.0)
+
+DEPENDENCIES:
+  - PlaceholderTextView (from `../`)
+
+EXTERNAL SOURCES:
+  PlaceholderTextView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PlaceholderTextView: f1e36cbc3a5802b425fbd3a398e66b1fa567dda2
+
+PODFILE CHECKSUM: 3a58ae02a3940ad94ad0ddda7f7d160383a40641
+
+COCOAPODS: 1.1.1

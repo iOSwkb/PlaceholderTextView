@@ -1,0 +1,22 @@
+{
+  "name": "PlaceholderTextView",
+  "version": "0.1.0",
+  "summary": "A short description of PlaceholderTextView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iOSwkb/PlaceholderTextView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iOSwkb": "18346668775m0@sina.cn"
+  },
+  "source": {
+    "git": "https://github.com/iOSwkb/PlaceholderTextView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PlaceholderTextView/Classes/**/*"
+}
